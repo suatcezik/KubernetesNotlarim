@@ -1,4 +1,4 @@
-Single Node kubernetes kurmamızı sağlayan, bilgisayarımız üzerinde bulunan HyperV, virtualbox, docker gibi platformlar üzerinde ayağa kalkar.
+Single Node kubernetes kurmamızı sağlar, bilgisayarımız üzerinde bulunan HyperV, virtualbox, docker gibi platformlar üzerinde ayağa kalkar.
 
 Ben Windows üzerine virtualbox ile kurulum yapıcam. Öncelikle virtualbox uygulaması kurulu olmalı.(https://www.virtualbox.org/)
 
