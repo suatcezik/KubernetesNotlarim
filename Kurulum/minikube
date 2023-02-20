@@ -1,0 +1,9 @@
+Single Node kubernetes kurmamızı sağlayan, bilgisayarımız üzerinde bulunan HyperV, virtualbox, docker gibi platformlar üzerinde ayağa kalkar.
+
+Ben Windows üzerine virtualbox ile kurulum yapıcam. Öncelikle virtualbox uygulaması kurulu olmalı.(https://www.virtualbox.org/)
+
+https://minikube.sigs.k8s.io/docs/start/ adresinden Windows için exe, winget yada chocolatey ile kurulum yapılır. Ben Chocolatey ile kurulum yapıcam.(Chocolatey kurulumu için https://chocolatey.org/install)
+
+#choco install minikube
+
+#minikube start --driver=virtualbox
